@@ -1,2 +1,3 @@
-Building Wikitopia
-[x] create readme
+**Building Wikitopia
+
+- [x] create readme
