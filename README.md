@@ -1,3 +1,5 @@
-**Building Wikitopia
+# Building Wikitopia
 
--[x] create readme
+*Or not...*
+- [x] **create readme**
+- [ ] Hello world
